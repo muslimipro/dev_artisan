@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-6RCuCHzC.js
-import{I as t,b as r,e as i,V as u,S as e,X as a}from"./index-CT3SuH-z.js";var s=function(o){var n=o.dt;return`
-========
 import{I as t,b as r,e as i,V as u,S as e,X as a}from"./index-WkhxvbEp.js";var s=function(o){var n=o.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-MgovoZcz.js
 .p-inputgroup,
 .p-inputgroup .p-iconfield,
 .p-inputgroup .p-floatlabel,

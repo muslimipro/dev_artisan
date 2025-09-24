@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-BW8PAoE4.js
-import{I as s,bk as r,Q as l,b as i,e as d,V as p,f as c,S as t}from"./index-CT3SuH-z.js";var v=function(n){var a=n.dt;return`
-========
 import{I as s,bk as r,Q as l,b as i,e as d,V as p,f as c,S as t}from"./index-WkhxvbEp.js";var v=function(n){var a=n.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-B3pIGvlW.js
 .p-overlaybadge {
     position: relative;
 }

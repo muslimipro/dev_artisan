@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-6o6-BEqB.js
-import{I as S,ac as b,ag as P,af as c,ad as d,aH as g,aI as E,b as h,e as p,F as v,j as x,k as L,W as T,S as f,h as w,l as M,X as y,V as A}from"./index-CT3SuH-z.js";var I=function(e){var t=e.dt;return`
-========
 import{I as S,ac as b,ag as P,af as c,ad as d,aH as g,aI as E,b as h,e as p,F as v,j as x,k as L,W as T,S as f,h as w,l as M,X as y,V as A}from"./index-WkhxvbEp.js";var I=function(e){var t=e.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-C2tw9yO3.js
 .p-splitter {
     display: flex;
     flex-wrap: nowrap;

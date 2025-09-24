@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-C41q9UMF.js
-import{I as b,ai as c,q as f,ab as y,Q as v,b as l,e as d,h as s,V as r,S as a,t as B,l as p,n as w,k as u,w as g,W as k,f as P,U as C,ah as $,T as I,X as S}from"./index-CT3SuH-z.js";import{s as A}from"./index-dXkHq0OZ.js";import{s as D}from"./index-CsoYUX-t.js";var T=function(o){var n=o.dt;return`
-========
 import{I as b,ai as c,q as f,ab as y,Q as v,b as l,e as d,h as s,V as r,S as a,t as B,l as p,n as w,k as u,w as g,W as k,f as P,U as C,ah as $,T as I,X as S}from"./index-WkhxvbEp.js";import{s as A}from"./index-DLhlDzWV.js";import{s as D}from"./index-BEpMOUCH.js";var T=function(o){var n=o.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-FXwBwE3P.js
 .p-panel {
     border: 1px solid `.concat(n("panel.border.color"),`;
     border-radius: `).concat(n("panel.border.radius"),`;

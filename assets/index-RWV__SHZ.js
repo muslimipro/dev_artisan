@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/index-RWV__SHZ.js
-import{_ as s}from"./MainHeader.vue_vue_type_script_setup_true_lang-CuFUBtMA.js";import{a as t,b as o,e as r,f as a,g as c,h as n}from"./index-CT3SuH-z.js";import"./index-BtxokkLK.js";import"./index-CWkQTIrk.js";import"./index-DClnFWaC.js";const m={class:"flex flex-col items-center h-screen"},u=t({__name:"ProjectsPage",setup(l){return(p,e)=>(o(),r("div",m,[a(c(s)),e[0]||(e[0]=n("div",{class:"w-full h-full max-w-screen-xl px-4 md:px-28 py-8"}," Projects ",-1))]))}});export{u as default};
-========
-import{_ as s}from"./MainHeader.vue_vue_type_script_setup_true_lang-XL2FTDV2.js";import{a as t,b as o,e as r,f as a,g as c,h as n}from"./index-WkhxvbEp.js";import"./index-D9KHX-c5.js";import"./index-U6Z7yZZt.js";import"./index-JGWBZkO1.js";const m={class:"flex flex-col items-center h-screen"},u=t({__name:"ProjectsPage",setup(l){return(p,e)=>(o(),r("div",m,[a(c(s)),e[0]||(e[0]=n("div",{class:"w-full h-full max-w-screen-xl px-4 md:px-28 py-8"}," Projects ",-1))]))}});export{u as default};
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-HipGIBEK.js

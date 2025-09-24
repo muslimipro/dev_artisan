@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/ProjectCard.vue_vue_type_script_setup_true_lang-B9uV1cGM.js
-import{I as $,b as s,e as o,S as c,V as k,l as d,h as l,X as F,t as b,an as j,a as O,D as q,a5 as H,s as W,r as z,k as m,w as x,f as C,g as M,n as B,i as Q,C as T,p as G,q as J,Q as Z}from"./index-CT3SuH-z.js";import{s as ee}from"./index-Dzxtw4ip.js";import{a as te}from"./index-BGoAy9bg.js";import{s as ae}from"./index-TCDlrK6i.js";import{s as ne}from"./index-CWkQTIrk.js";import{a as se}from"./index-CAL-WQQX.js";import{P as ie}from"./pibody-BwAjMvHk.js";var oe=function(t){var a=t.dt;return`
-========
 import{I as $,b as s,e as o,S as c,V as k,l as d,h as l,X as F,t as b,an as j,a as O,D as q,Y as H,s as W,r as z,k as m,w as x,f as C,g as M,n as B,i as Q,C as T,p as G,q as J,Q as Z}from"./index-WkhxvbEp.js";import{s as ee}from"./index-BcplyoaR.js";import{a as te}from"./index-Dcx8AGZK.js";import{s as ae}from"./index-Cz7c2Ml7.js";import{s as ne}from"./index-U6Z7yZZt.js";import{a as se}from"./index-OweKS4J0.js";import{P as ie}from"./pibody-BwAjMvHk.js";var oe=function(t){var a=t.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/ProjectCard.vue_vue_type_script_setup_true_lang-7Yyqd1k1.js
 .p-card {
     background: `.concat(a("card.background"),`;
     color: `).concat(a("card.color"),`;

@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-CORS7NJm.js
-import{I as e,aa as u,b as c,e as b,h as d,S as r}from"./index-CT3SuH-z.js";import{b as l}from"./index-BGoAy9bg.js";var s=function(n){var o=n.dt;return`
-========
 import{I as e,aa as u,b as c,e as b,h as d,S as r}from"./index-WkhxvbEp.js";import{b as l}from"./index-Dcx8AGZK.js";var s=function(n){var o=n.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-jz2TiZnS.js
 .p-radiobutton {
     position: relative;
     display: inline-flex;

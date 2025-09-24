@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-CDgnFg2J.js
-import{I as d,b as t,e as r,S as o,V as a,l,X as s}from"./index-CT3SuH-z.js";var p=function(i){var n=i.dt;return`
-========
 import{I as d,b as t,e as r,S as o,V as a,l,X as s}from"./index-WkhxvbEp.js";var p=function(i){var n=i.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-CjoN6v0X.js
 .p-divider-horizontal {
     display: flex;
     width: 100%;

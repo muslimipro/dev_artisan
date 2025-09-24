@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-BtxokkLK.js
-import{I as D,X as K,aV as V,S as r,ab as F,R,b as o,e as u,h as O,U as H,k as h,n as B,W as C,l as c,t as T,ai as w,Z as k,K as v,aQ as y,a9 as M,at as N,av as U,af as I,aw as Z,ax as W,as as j,O as Q,Q as S,w as A,f as q,T as X,V as L,F as p,j as E,i as G}from"./index-CT3SuH-z.js";var J=function(e){var n=e.dt;return`
-========
 import{I as D,X as K,aV as V,S as r,ab as F,R,b as o,e as u,h as O,U as H,k as h,n as B,W as C,l as c,t as T,ai as w,Z as k,K as v,aQ as y,a9 as M,at as N,av as U,af as I,aw as Z,ax as W,as as j,O as Q,Q as S,w as A,f as q,T as X,V as L,F as p,j as E,i as G}from"./index-WkhxvbEp.js";var J=function(e){var n=e.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-D9KHX-c5.js
 .p-menu {
     background: `.concat(n("menu.background"),`;
     color: `).concat(n("menu.color"),`;

@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-CO72De33.js
-import{I as p,aa as k,bg as x,aE as f,Q as h,b as r,e as m,h as l,S as a,V as g,k as s,l as v,n as y}from"./index-CT3SuH-z.js";import{s as C}from"./index-dXkHq0OZ.js";import{b as w}from"./index-BGoAy9bg.js";var B=function(n){var e=n.dt;return`
-========
 import{I as p,aa as k,bg as x,aE as f,Q as h,b as r,e as m,h as l,S as a,V as g,k as s,l as v,n as y}from"./index-WkhxvbEp.js";import{s as C}from"./index-DLhlDzWV.js";import{b as w}from"./index-Dcx8AGZK.js";var B=function(n){var e=n.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-CErnZw7E.js
 .p-checkbox {
     position: relative;
     display: inline-flex;

@@ -1,5 +1,1 @@
-<<<<<<<< HEAD:assets/useTeacherStore-CI_W31ZT.js
-import{d as o,r}from"./index-CT3SuH-z.js";import{T as l}from"./teacherApi-C_5IhgFM.js";const i=o("useTeacherStore",()=>{const e=r([]),a=r(!1);async function t(){try{a.value=!0;const{data:s}=await l.getClasses();s?e.value=s:e.value=[]}finally{a.value=!1}}return{classes:e,isLoading:a,loadClasses:t}});export{i as u};
-========
 import{d as o,r}from"./index-WkhxvbEp.js";import{T as l}from"./teacherApi-DNO7hQ60.js";const i=o("useTeacherStore",()=>{const e=r([]),a=r(!1);async function t(){try{a.value=!0;const{data:s}=await l.getClasses();s?e.value=s:e.value=[]}finally{a.value=!1}}return{classes:e,isLoading:a,loadClasses:t}});export{i as u};
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/useTeacherStore-B7qcYFjU.js

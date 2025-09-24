@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-DULPXNdy.js
-import{I as a,X as o,b as i,e as s,S as l}from"./index-CT3SuH-z.js";var d=function(t){var e=t.dt;return`
-========
 import{I as a,X as o,b as i,e as s,S as l}from"./index-WkhxvbEp.js";var d=function(t){var e=t.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-CCVjVZIY.js
 .p-skeleton {
     overflow: hidden;
     background: `.concat(e("skeleton.background"),`;

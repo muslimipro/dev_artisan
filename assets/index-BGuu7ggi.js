@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-Dd-9bjst.js
-import{I as n,b as e,e as o,V as p,S as i,X as r}from"./index-CT3SuH-z.js";var s=function(t){var l=t.dt;return`
-========
 import{I as n,b as e,e as o,V as p,S as i,X as r}from"./index-WkhxvbEp.js";var s=function(t){var l=t.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-BGuu7ggi.js
 .p-floatlabel {
     display: block;
     position: relative;

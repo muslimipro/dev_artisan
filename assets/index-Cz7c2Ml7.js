@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-TCDlrK6i.js
-import{I as s,b as e,e as r,k as g,S as t,W as i,l as c,V as l,h as d,t as p,X as u}from"./index-CT3SuH-z.js";var y=function(o){var n=o.dt;return`
-========
 import{I as s,b as e,e as r,k as g,S as t,W as i,l as c,V as l,h as d,t as p,X as u}from"./index-WkhxvbEp.js";var y=function(o){var n=o.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-Cz7c2Ml7.js
 .p-tag {
     display: inline-flex;
     align-items: center;

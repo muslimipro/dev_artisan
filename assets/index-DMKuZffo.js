@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-DQBLfah4.js
-import{I as p,X as a,b as t,e as o,S as e,h as c}from"./index-CT3SuH-z.js";var l=function(s){var r=s.dt;return`
-========
 import{I as p,X as a,b as t,e as o,S as e,h as c}from"./index-WkhxvbEp.js";var l=function(s){var r=s.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-DMKuZffo.js
 .p-progressspinner {
     position: relative;
     margin: 0 auto;

@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-cZ5NzgS_.js
-import{a}from"./index-BGoAy9bg.js";import{I as s,b as r,e as d,h as l,S as i,V as g}from"./index-CT3SuH-z.js";var h=function(n){var t=n.dt;return`
-========
 import{a}from"./index-Dcx8AGZK.js";import{I as s,b as r,e as d,h as l,S as i,V as g}from"./index-WkhxvbEp.js";var h=function(n){var t=n.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-Cvo2N0eb.js
 .p-toggleswitch {
     display: inline-block;
     width: `.concat(t("toggleswitch.width"),`;

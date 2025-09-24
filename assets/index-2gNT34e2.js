@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-B1f_vwGR.js
-import{I as o,b as c,e as s,V as a,S as r,X as l}from"./index-CT3SuH-z.js";var f=function(t){var n=t.dt;return`
-========
 import{I as o,b as c,e as s,V as a,S as r,X as l}from"./index-WkhxvbEp.js";var f=function(t){var n=t.dt;return`
->>>>>>>> 70afea0 (pibody, state, langs, create, paste, bar, lesson, view):assets/index-2gNT34e2.js
 .p-iconfield {
     position: relative;
 }
